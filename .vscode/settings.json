@@ -39,7 +39,7 @@
     "dotenv" : "tune"
   },
   "typescript.updateImportsOnFileMove.enabled" : "never",
-  "workbench.colorTheme" : "Omni",
+  "workbench.colorTheme" : "Dracula",
   "material-icon-theme.files.associations" : {
     "tsconfig.json" : "tune",
     "*.webpack.js" : "webpack",
@@ -150,5 +150,6 @@
   "java.project.sourcePaths": [
     "src"
   ],
-  "compile-hero.disable-compile-files-on-did-save-code": true
+  "compile-hero.disable-compile-files-on-did-save-code": true,
+  "liveServer.settings.port": 5501
 }
